@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+venv/
+data/
+models/*.keras
+results/*
+!results/.gitkeep
+*.pyc
+.DS_Store
